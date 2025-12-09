@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "Redshift Driver (Dedicated ver)",
+            "name": "escola local",
+            "database": "escola",
+            "username": "postgres",
+            "password": "5527"
+        }
+    ]
+}
